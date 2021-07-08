@@ -1,0 +1,26 @@
+com/demoqa/automation/utils/ScreenShot.java
+ com.demoqa.automation.utils.ScreenShot
+com/demoqa/automation/ui/RegisterNewUserPage.java
+ com.demoqa.automation.ui.RegisterNewUserPage
+com/demoqa/automation/utils/SpecialMethods.java
+ com.demoqa.automation.utils.SpecialMethods
+com/demoqa/automation/interactions/OpenTheBrowser.java
+ com.demoqa.automation.interactions.OpenTheBrowser
+com/demoqa/automation/questions/GetTextQuestion.java
+ com.demoqa.automation.questions.GetTextQuestion
+com/demoqa/automation/utils/Excel.java
+ com.demoqa.automation.utils.Excel
+com/demoqa/automation/tasks/RegisterValidationWithConfProperties.java
+ com.demoqa.automation.tasks.RegisterValidationWithConfProperties
+com/demoqa/automation/tasks/SetRegisterNewUserWithConfProperties.java
+ com.demoqa.automation.tasks.SetRegisterNewUserWithConfProperties
+com/demoqa/automation/tasks/RegisterValidationWithExcel.java
+ com.demoqa.automation.tasks.RegisterValidationWithExcel
+com/demoqa/automation/tasks/RegisterValidationWithFaker.java
+ com.demoqa.automation.tasks.RegisterValidationWithFaker
+com/demoqa/automation/models/DataInjection.java
+ com.demoqa.automation.models.DataInjection
+com/demoqa/automation/tasks/SetRegisterNewUserWithExcel.java
+ com.demoqa.automation.tasks.SetRegisterNewUserWithExcel
+com/demoqa/automation/tasks/SetRegisterNewUserWithFaker.java
+ com.demoqa.automation.tasks.SetRegisterNewUserWithFaker

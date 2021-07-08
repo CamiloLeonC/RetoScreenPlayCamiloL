@@ -1,0 +1,4 @@
+com.demoqa.test/stepdefinitions/RegisterNewUserStepDefinition.java
+ com.demoqa.test.stepdefinitions.RegisterNewUserStepDefinition
+com.demoqa.test/runners/RegisterNewUserRunner.java
+ com.demoqa.test.runners.RegisterNewUserRunner
